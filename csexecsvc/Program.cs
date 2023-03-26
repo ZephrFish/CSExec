@@ -10,7 +10,7 @@ namespace csexecsvc
 {
     class csexecsvc : ServiceBase
     {
-        public const string _ServiceName = "csexecsvc";
+        public const string _ServiceName = "psexecsvc";
 
         static void Main(string[] args)
         {
